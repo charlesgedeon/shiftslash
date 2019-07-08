@@ -1,0 +1,10 @@
+baseURL = "https://shiftslash.co"
+languageCode = "en-us"
+title = "shiftslash⇧/"
+theme = "tale"
+
+[params]
+    Author = "Charlie G."
+
+[Author]
+    name = "shiftslash"
