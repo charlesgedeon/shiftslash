@@ -1,4 +1,4 @@
-baseURL = "https://shiftslash.co"
+baseURL = "https://shiftslash.netlify.com"
 languageCode = "en-us"
 title = "shiftslash⇧/"
 theme = "tale"
