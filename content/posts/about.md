@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2019-07-08T18:01:38-04:00
-draft: true
+draft: false
 ---
 Advances in technology will introduce new interfaces that will enable further creativity and curiosity. However, the basic unit of thinking remains the same: the humble question. Through hypothetical explorations on this blog and in our work with clients, we want to make sure that our technology doesn’t outpace our questioning.
 
