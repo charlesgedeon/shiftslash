@@ -1,0 +1,19 @@
+{
+  "name": "shiftslash",
+  "version": "1.0.0",
+  "description": "The hard questions about how we think with digital interfaces",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlesgedeon/shiftslash.git"
+  },
+  "author": "Charlie G.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlesgedeon/shiftslash/issues"
+  },
+  "homepage": "https://github.com/charlesgedeon/shiftslash#readme"
+}
