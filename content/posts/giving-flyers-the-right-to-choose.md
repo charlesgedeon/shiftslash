@@ -7,7 +7,7 @@ tags: ["interfaces"]
 
 No, not paper flyers—this is not a write up on the rights of cheap handouts given out by a club promoter with too much hair gel. I’m talking humans on planes; the people that Boeing doesn’t care about.
 
-The tragedies that happened on Lion Air Flight 610 and Ethiopian Airlines Flight 302 were part of a lazy attempt by Boeing to compete with Airbus while [saving costs on engineers](https://www.bloomberg.com/news/articles/2019-06-28/boeing-s-737-max-software-outsourced-to-9-an-hour-engineers), and gaming the FAA.
+The tragedies that happened on Lion Air Flight 610 and Ethiopian Airlines Flight 302 were part of a lazy attempt by Boeing to compete with Airbus while [saving costs on engineers](https://www.bloomberg.com/news/articles/2019-06-28/boeing-s-737-max-software-outsourced-to-9-an-hour-engineers), and gaming the FAA's approval process for new planes.
 
 {{< youtube pKSVYwl6-Mk >}}
 <br/>
