@@ -6,7 +6,7 @@ tags: ["tech", "philosophy", "futures"]
 ---
 ![](/images/technophilosopher.gif)
 
-##The new technologists equipped to explore and exploit philosophy for business
+## The new technologists equipped to explore and exploit philosophy for business
 
 Our world is developing new technologies that are pushing the boundaries of morality and social norms, and the resurgence of the humanities is imminent. We will see a new wave of applied philosophy managed by a new job title, the *technophilosopher*.
 
