@@ -1,6 +1,6 @@
 ---
 title: "Our tech's lack of context awareness"
-date: 2019-07-4T08:00:00-04:00
+date: 2019-07-04T08:00:00-04:00
 draft: false
 tags: ["tech", "philosophy", "internet"]
 ---
