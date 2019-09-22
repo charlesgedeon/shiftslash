@@ -1,6 +1,6 @@
 ---
 title: "The right thing to build"
-date: 2018-12-10T08:00:00-04:00
+date: 2018-12-01T08:00:00-04:00
 draft: false
 tags: ["philosophy", "work", "entrepreneurship"]
 ---
