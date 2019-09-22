@@ -1,6 +1,6 @@
 ---
 title: "Computers are merely tiny file cabinets"
-date: 2018-12-6T08:00:00-04:00
+date: 2018-12-06T08:00:00-04:00
 draft: false
 tags: ["tech", "interaction design", "reflective computing"]
 ---
